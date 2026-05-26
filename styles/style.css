@@ -253,11 +253,13 @@
 }
 
 .person_name_cannon {
+  flex-direction: column-reverse;
   right: 216px;
   bottom: 18px;
 }
 
 .person_name_mitchell {
+  flex-direction: column-reverse;
   bottom: 82px;
   left: 142px;
 }
